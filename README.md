@@ -1,6 +1,6 @@
 # contact_user
 
-A new Flutter project.
+Vimigo Technichal Assesment.
 
 ## Getting Started
 
