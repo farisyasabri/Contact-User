@@ -1,6 +1,6 @@
 # contact_user
 
-Vimigo Technichal Assesment.
+Vimigo Technical Assesment.
 
 ## Getting Started
 
